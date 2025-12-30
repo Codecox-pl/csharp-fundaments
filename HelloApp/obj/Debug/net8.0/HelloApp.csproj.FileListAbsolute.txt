@@ -12,3 +12,4 @@ C:\Users\pluis\OneDrive - CANVIA\Practicas\c#\csharp-fund\HelloApp\obj\Debug\net
 C:\Users\pluis\OneDrive - CANVIA\Practicas\c#\csharp-fund\HelloApp\obj\Debug\net8.0\HelloApp.pdb
 C:\Users\pluis\OneDrive - CANVIA\Practicas\c#\csharp-fund\HelloApp\obj\Debug\net8.0\HelloApp.genruntimeconfig.cache
 C:\Users\pluis\OneDrive - CANVIA\Practicas\c#\csharp-fund\HelloApp\obj\Debug\net8.0\ref\HelloApp.dll
+C:\Users\pluis\OneDrive - CANVIA\Practicas\c#\csharp-fund\HelloApp\obj\Debug\net8.0\HelloApp.sourcelink.json
