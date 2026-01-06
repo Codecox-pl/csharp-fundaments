@@ -8,6 +8,9 @@ partial class Program
         //ShowNumericTypes();
         //ShowStringTypes();
         //ShowHomework1();
-        SalaryCalculator();
+        //SalaryCalculator();
+        //ShowTime();
+        //DaysOfLife();
+        DaysUntilNextBirthday();
     }
 }
