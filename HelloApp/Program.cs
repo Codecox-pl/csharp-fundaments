@@ -1,9 +1,16 @@
 ﻿
 partial class Program
 {
-    static void Main(string[ ] args)
+    static void Main(string[] args)
     {
-       // Variables();
-        Datatypes();
+        // Variables();
+        //Datatypes();
+        //ShowNumericTypes();
+        //ShowStringTypes();
+        //ShowHomework1();
+        //SalaryCalculator();
+        //ShowTime();
+        //DaysOfLife();
+        DaysUntilNextBirthday();
     }
 }
