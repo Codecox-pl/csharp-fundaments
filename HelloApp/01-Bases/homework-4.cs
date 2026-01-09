@@ -21,9 +21,10 @@ partial class Program
         }
 
         TimeSpan difference = proxBirthay - DateTime.Now ;
-        
+
        System.Console.WriteLine(difference.ToString(@"dd\ d"));
         
 
     }
 }
+
