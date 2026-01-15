@@ -3,6 +3,7 @@ partial class Program
 {
     static void Main(string[] args)
     {
+        #region Seccion2
         // Variables();
         //Datatypes();
         //ShowNumericTypes();
@@ -18,6 +19,17 @@ partial class Program
         //InventoryManager();
         //ListDictionary();
         //DataStructures();
-        Generics();
+        //Generics();
+        #endregion
+        //Conditional();
+        //Loops();
+        //FizzBuzz();
+        //LoopControlExamples();
+        //LoopGame();
+        //Conversions();
+        //ConvertionToDateTime();
+        //Functions();
+        //PrintMultiplicationTable(8,10);
+        FactorialNumber(5);
     }
 }

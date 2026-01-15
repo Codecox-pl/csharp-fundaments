@@ -5,9 +5,9 @@ partial class Program
         string[] name = {"Patrick","Claudia","Juan"};
         int[] numbers = {1,2,3};
         
-        System.Console.WriteLine($"Tamaño del arreglo numerico{GetGenArrayLength(name)}");
+        WriteLine($"Tamaño del arreglo numerico{GetGenArrayLength(name)}");
 
-        System.Console.WriteLine($"Tamaño del arreglo texto{GetGenArrayLength(numbers)}");
+        WriteLine($"Tamaño del arreglo texto{GetGenArrayLength(numbers)}");
 
         Box<int> numberBox = new Box<int> {Content = 100};
         Box<string> stringBox = new Box<string> {Content = "Hola"};
@@ -38,6 +38,6 @@ class Box<T>
 
     public void Show()
     {
-        System.Console.WriteLine($"Contenido: {Content}");
+        WriteLine($"Contenido: {Content}");
     }
 }
