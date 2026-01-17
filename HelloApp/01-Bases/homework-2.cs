@@ -11,13 +11,13 @@ partial class Program
         Console.WriteLine("Calculadora de Salario");
 
         Console.WriteLine("Ingrese su nombre: ");
-        string name = Console.ReadLine();
+        string name = Console.ReadLine()!;
 
         Console.WriteLine("Ingrese sus horas trabajadas: ");
-        int hours = int.Parse(Console.ReadLine());
+        int hours = int.Parse(Console.ReadLine()!);
 
         Console.WriteLine("Ingrese su tarifa por hora");
-        double salaryXhour = double.Parse(Console.ReadLine());
+        double salaryXhour = double.Parse(Console.ReadLine()!);
 
 
         var salary = hours * salaryXhour;
