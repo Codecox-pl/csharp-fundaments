@@ -21,6 +21,7 @@ partial class Program
         //DataStructures();
         //Generics();
         #endregion
+        #region Seccion3
         //Conditional();
         //Loops();
         //FizzBuzz();
@@ -30,6 +31,15 @@ partial class Program
         //ConvertionToDateTime();
         //Functions();
         //PrintMultiplicationTable(8,10);
-        FactorialNumber(5);
+
+        // WriteLine("Ingrese un numero: ");
+        // int number = int.Parse(Console.ReadLine());
+        // FactorialNumber(number);
+
+        //Tuples();
+        //AnonymousFunctions();
+        #endregion
+        //TestingClass();
+        Properties();
     }
 }
