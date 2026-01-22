@@ -1,0 +1,15 @@
+E:\curso-devtalles\csharp-fundaments\HelloApp\bin\Debug\net8.0\HelloApp.exe
+E:\curso-devtalles\csharp-fundaments\HelloApp\bin\Debug\net8.0\HelloApp.deps.json
+E:\curso-devtalles\csharp-fundaments\HelloApp\bin\Debug\net8.0\HelloApp.runtimeconfig.json
+E:\curso-devtalles\csharp-fundaments\HelloApp\bin\Debug\net8.0\HelloApp.dll
+E:\curso-devtalles\csharp-fundaments\HelloApp\bin\Debug\net8.0\HelloApp.pdb
+E:\curso-devtalles\csharp-fundaments\HelloApp\obj\Debug\net8.0\HelloApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\curso-devtalles\csharp-fundaments\HelloApp\obj\Debug\net8.0\HelloApp.AssemblyInfoInputs.cache
+E:\curso-devtalles\csharp-fundaments\HelloApp\obj\Debug\net8.0\HelloApp.AssemblyInfo.cs
+E:\curso-devtalles\csharp-fundaments\HelloApp\obj\Debug\net8.0\HelloApp.csproj.CoreCompileInputs.cache
+E:\curso-devtalles\csharp-fundaments\HelloApp\obj\Debug\net8.0\HelloApp.sourcelink.json
+E:\curso-devtalles\csharp-fundaments\HelloApp\obj\Debug\net8.0\HelloApp.dll
+E:\curso-devtalles\csharp-fundaments\HelloApp\obj\Debug\net8.0\refint\HelloApp.dll
+E:\curso-devtalles\csharp-fundaments\HelloApp\obj\Debug\net8.0\HelloApp.pdb
+E:\curso-devtalles\csharp-fundaments\HelloApp\obj\Debug\net8.0\HelloApp.genruntimeconfig.cache
+E:\curso-devtalles\csharp-fundaments\HelloApp\obj\Debug\net8.0\ref\HelloApp.dll
