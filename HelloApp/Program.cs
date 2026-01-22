@@ -40,6 +40,15 @@ partial class Program
         //AnonymousFunctions();
         #endregion
         //TestingClass();
-        Properties();
+        //Properties();
+        //Methods();
+
+        //Forzar la recoleccion de basura
+        //GC.Collect();
+        //ejecuten los finalizadores
+        //GC.WaitForPendingFinalizers();
+
+        //ProductSalesDemo();
+        BusFleet();
     }
 }
