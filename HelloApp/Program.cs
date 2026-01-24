@@ -48,6 +48,9 @@ partial class Program
         //ejecuten los finalizadores
         //GC.WaitForPendingFinalizers();
 
-        ProductSalesDemo();
+        //ProductSalesDemo();
+        //Inheritance();
+        //Visibility();
+        Homework10();
     }
 }
