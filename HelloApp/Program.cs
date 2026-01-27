@@ -3,7 +3,7 @@ partial class Program
 {
     static void Main(string[] args)
     {
-        #region Seccion2
+        #region Seccion1
         // Variables();
         //Datatypes();
         //ShowNumericTypes();
@@ -21,7 +21,7 @@ partial class Program
         //DataStructures();
         //Generics();
         #endregion
-        #region Seccion3
+        #region Seccion2
         //Conditional();
         //Loops();
         //FizzBuzz();
@@ -31,26 +31,26 @@ partial class Program
         //ConvertionToDateTime();
         //Functions();
         //PrintMultiplicationTable(8,10);
-
         // WriteLine("Ingrese un numero: ");
         // int number = int.Parse(Console.ReadLine());
         // FactorialNumber(number);
-
         //Tuples();
         //AnonymousFunctions();
-        #endregion
         //TestingClass();
+        #endregion
+        #region Seccion3
         //Properties();
         //Methods();
-
         //Forzar la recoleccion de basura
         //GC.Collect();
         //ejecuten los finalizadores
         //GC.WaitForPendingFinalizers();
-
         //ProductSalesDemo();
         //Inheritance();
         //Visibility();
-        Homework10();
+        //Homework10();
+        #endregion
+        //Homework11();
+        Homework12();
     }
 }
