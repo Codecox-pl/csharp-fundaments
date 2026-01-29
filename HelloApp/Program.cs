@@ -49,8 +49,11 @@ partial class Program
         //Inheritance();
         //Visibility();
         //Homework10();
-        #endregion
         //Homework11();
-        Homework12();
+        //Homework12();
+        #endregion
+        #region Seccion4
+        HandleException();
+        #endregion
     }
 }
